@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, I'm Racelle!</h1>
-<h3 align="center">A Computer Science Student from Philippines</h3>
+<h3 align="center">A Computer Science Student from the Philippines</h3>
 
-- 🌱 I’m currently learning **C++**
+- I’m currently learning **C++** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<h3 align="left">Goals: Be able to learn C++ programming:</h3>
+<h3 align="left">Goals: <i>Be able to learn C++ programming</i></h3>
 <p align="left">
 </p>
 
